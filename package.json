@@ -1,0 +1,18 @@
+{
+  "name": "collision-with-threejs",
+  "version": "1.0.0",
+  "description": "Esse é um projeto para entender como funciona a física com ThreeJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victor-Lis"
+  },
+  "author": "Dev-Victor-Lis",
+  "license": "ISC",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.160.0"
+  }
+}
